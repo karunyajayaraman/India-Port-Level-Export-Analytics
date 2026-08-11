@@ -1,0 +1,20 @@
+Metadata Information,
+Domains,
+Dataset Name,Exports at Principal Commodity Level
+Granularity Level,State × Month × Port × Export Country × Principal Commodity
+Frequency,Monthly
+Source Name,Directorate General of Commercial Intelligence and Statistics(DGCI&S)
+Source Link,https://www.dgciskol.gov.in/
+Data Retrieval Date,2024-09-16 00:00:00
+Data Last Updated,2024-07-01 00:00:00
+Data Extraction Page,https://119.226.26.106/dgcis/principalcommditysearch.html#!/freeuser
+About,"The ""Exports at Principal Commodity Level"" dataset provides detailed insights into India's Export of commodities from different states to various international destinations. The dataset encompasses key parameters, such as the date (month), the originating state, the port used for export, the destination country, and specifics about the commodity, including its code, name, quantity, and corresponding value in both USD and INR."
+Methodology,"The dataset has been sourced from the online portal of the Directorate General of Commercial Intelligence and Statistics (DGCI&S), as available at the specified URL. It  accumulates data from customs declarations, trade agreements, and other export-related documentation to ensure accuracy and comprehensiveness in the dataset. However, users are advised to refer to the original source for any details about the data collection process or to verify the precision of the data."
+Resource,Exports at Principal Commodity Level
+Data Insights,"Data insights that can be drawn:
+Trend Analysis: One can identify monthly trends in the export of specific commodities, thus gaining insights into peak export months or potential seasonality.
+Regional Insights: With state-wise export details, it's possible to discern which states are leading exporters for particular commodities.
+Trade Partners: By evaluating the 'Export Country' column, one can identify the top trade partners for specific commodities and states.
+Commodity Popularity: With data on commodity quantity and its value in both USD and INR, one can determine the most exported commodities in terms of volume and value.
+Port Utilization: Information about which ports are predominantly used for exporting can help in infrastructure and logistic planning."
+Tags,"Trade, Exports, Commodity, Economic Data, Trade Balance, International Business, Regional Exports"
