@@ -202,10 +202,10 @@ Analyzed export activity across Indian states to identify the **major exporting 
 
 **Visualization Used:**
 - State-wise export performance
-  
-![Top 10 Commodities by Export Value](images/top_10_commodities.png)
 
-![Top 10 States by Total Export Value (USD)](images/Top_10_States_by_Total_Export-Dollar_Value%28USD%29.png)
+![State-Wise Export Performance](images/State-Wise%20Export%20Performance.png)
+
+![Top 10 States by Total Export Value (USD)](images/Top_10_States_by_Total_Export_Dollar_Value_USD.png)
 
 **Purpose:** To compare export participation and performance across states.
 
