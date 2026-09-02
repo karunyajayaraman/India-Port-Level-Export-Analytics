@@ -122,3 +122,41 @@ The raw dataset was cleaned and prepared to ensure data quality and consistency 
 ### Final Dataset
 
 After cleaning and preprocessing, the dataset was prepared for **statistical analysis, exploratory data analysis, and visualization**.
+
+## Statistical Analysis
+
+Statistical analysis was performed to understand the **central tendency, dispersion, and distribution** of the numerical variables in the dataset.
+
+### Measures of Central Tendency
+
+The following measures were calculated:
+
+- **Mean**
+- **Median**
+- **Mode**
+
+| Variable | Mean | Median | Mode |
+|---|---:|---:|---:|
+| `quantity` | 64,414.45 | 0.00 | 0.00 |
+| `dollars_value` | 357,966.10 | 19,502.00 | — |
+| `inr_value` | ₹27,242,250 | ₹1,466,100 | — |
+
+### Measures of Dispersion
+
+The following measures were calculated to understand the variability and spread of the numerical variables:
+
+| Variable | Range | Variance | Standard Deviation |
+|---|---:|---:|---:|
+| `quantity` | 7,620,654,000 | 1.3841 × 10¹³ | 3,720,349 |
+| `dollars_value` | $1,449,331,220 | 2.8155 × 10¹³ | 5,306,167 |
+| `inr_value` | ₹119,263,437,035 | 1.659953 × 10¹⁷ | ₹407,425,200 |
+
+The numerical variables showed **high variability and strong right-skewness**, indicating the presence of a relatively small number of records with very high export values and quantities.
+
+### Distribution Analysis
+
+Log transformation was applied to selected export-value variables to improve the visibility of their distributions and reduce the effect of extreme values.
+
+![Log-Transformed Export Value Distribution](images/log_transformed_export_distribution.png)
+
+> **Insight:** The original export-value distributions were highly right-skewed. The log transformation provided a more balanced distribution and made the underlying patterns easier to analyze.
