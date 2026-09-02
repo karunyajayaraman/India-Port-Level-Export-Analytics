@@ -157,6 +157,91 @@ The numerical variables showed **high variability and strong right-skewness**, i
 
 Log transformation was applied to selected export-value variables to improve the visibility of their distributions and reduce the effect of extreme values.
 
+![Log-Transformed Quantity Distribution](images/log1-Quantity.png)
 ![Log-Transformed Export Value Distribution](images/log1-Dollars_Value.png)
+![Log-Transformed INR Value Distribution](images/log1-INR_Value.png)
 
 > **Insight:** The original export-value distributions were highly right-skewed. The log transformation provided a more balanced distribution and made the underlying patterns easier to analyze.
+
+## Exploratory Data Analysis
+
+Exploratory Data Analysis (EDA) was performed to identify patterns, trends, relationships, and major contributors within India’s export data.
+
+The analysis was structured around the project objectives and supported using appropriate **univariate, bivariate, and multivariate visualizations**.
+
+### Objective 1: Overall Export Performance
+
+Analyzed India’s overall export performance using **export value and quantity** across the available years.
+
+**Visualizations Used:**
+- Year-wise export performance
+- Export value and quantity distribution
+
+**Purpose:** To understand the overall scale and variation of India's exports.
+
+---
+
+### Objective 2: Top-Performing Principal Commodities
+
+Identified the **top principal commodities** based on their contribution to total export value.
+
+**Visualization Used:**
+- Top commodities by export value
+
+**Purpose:** To identify the major commodities contributing to India's exports.
+
+---
+
+### Objective 3: State-wise Export Performance
+
+Analyzed export activity across Indian states to identify the **major exporting states**.
+
+**Visualization Used:**
+- State-wise export performance
+
+**Purpose:** To compare export participation and performance across states.
+
+---
+
+### Objective 4: Yearly Export Trends
+
+Examined changes in export performance across the **2018–2024** period.
+
+**Visualization Used:**
+- Year-wise export trend
+
+**Purpose:** To identify periods of growth, decline, and changes in India's export performance.
+
+---
+
+### Objective 5: Commodity–State Relationship
+
+Analyzed the relationship between **principal commodities and exporting states**.
+
+**Visualization Used:**
+- Commodity–state heatmap
+
+**Purpose:** To identify major commodity-state combinations and regional export specialization.
+
+---
+
+### Objective 6: Commodity-wise Changes Across Years
+
+Analyzed how the performance of major commodities changed across different years.
+
+**Visualization Used:**
+- Commodity-wise yearly trend
+
+**Purpose:** To identify commodities showing growth, decline, or changing export patterns over time.
+
+---
+
+### Objective 7: Contribution and Concentration Analysis
+
+Measured the contribution of major **commodities and states** to overall exports.
+
+**Visualizations Used:**
+- Commodity contribution analysis
+- State contribution analysis
+
+**Purpose:** To understand the concentration of India's exports among major commodities and states.
