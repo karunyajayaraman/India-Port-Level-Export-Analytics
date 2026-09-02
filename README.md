@@ -175,6 +175,7 @@ Analyzed India’s overall export performance using **export value and quantity*
 
 **Visualizations Used:**
 - Year-wise export performance
+  
   ![Year-Wise Distribution of Export Records](images/Year-Wise%20Distribution.png)
 
 **Purpose:** To understand the overall scale and variation of India's exports.
@@ -187,8 +188,10 @@ Identified the **top principal commodities** based on their contribution to tota
 
 **Visualization Used:**
 - Top commodities by export value
+  
 ![Principal Commodities - Wise Distribution](images/Principal%20Commodities%20-%20Wise%20Distribution.png)
 ![Top 10 Principal Commodities by Export INR Value](images/Top%2010%20Principle%20commodities%20by%20Export%20INR_Value.png)
+
 **Purpose:** To identify the major commodities contributing to India's exports.
 
 ---
@@ -199,7 +202,9 @@ Analyzed export activity across Indian states to identify the **major exporting 
 
 **Visualization Used:**
 - State-wise export performance
+  
 ![Top 10 Commodities by Export Value](images/top_10_commodities.png)
+
 ![Top 10 States by Total Export Value (USD)](images/Top%2010%20States%20by%20Total%20Export%20-Dollar_Value%28USD%29.png)
 
 **Purpose:** To compare export participation and performance across states.
@@ -212,6 +217,7 @@ Examined changes in export performance across the **2018–2024** period.
 
 **Visualization Used:**
 - Year-wise export trend
+  
 ![Year-Wise Export Value of India](images/Year-Wise%20Export%20Value%20of%20India.png)
 
 **Purpose:** To identify periods of growth, decline, and changes in India's export performance.
@@ -224,6 +230,7 @@ Analyzed the relationship between **principal commodities and exporting states**
 
 **Visualization Used:**
 - Commodity–state heatmap
+  
 ![State-wise Export Value Across Top 20 Commodities](images/state_wise_export_top_20_commodities.png)
 
 **Purpose:** To identify major commodity-state combinations and regional export specialization.
@@ -236,6 +243,7 @@ Analyzed how the performance of major commodities changed across different years
 
 **Visualization Used:**
 - Commodity-wise yearly trend
+  
 ![Commodity-wise Export Performance Across Years](images/commodity_wise_export_performance_years.png)
 
 **Purpose:** To identify commodities showing growth, decline, or changing export patterns over time.
@@ -248,8 +256,11 @@ Measured the contribution of major **commodities and states** to overall exports
 
 **Visualizations Used:**
 - Commodity contribution analysis
+  
 ![Top 10 Commodities by Contribution to Total Export Value](images/Top%2010%20Commodities%20by%20Contribution%20to%20Total%20Export%20Value.png)
+
 - State contribution analysis
+  
 ![Cumulative Contribution of Top 20 Commodities](images/Cumulative%20Contribution%20of%20Top%2020%20Commodities.png)
 
 **Purpose:** To understand the concentration of India's exports among major commodities and states.
