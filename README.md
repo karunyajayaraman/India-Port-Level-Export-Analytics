@@ -138,8 +138,8 @@ The following measures were calculated:
 | Variable | Mean | Median | Mode |
 |---|---:|---:|---:|
 | `quantity` | 64,414.45 | 0.00 | 0.00 |
-| `dollars_value` | 357,966.10 | 19,502.00 | — |
-| `inr_value` | ₹27,242,250 | ₹1,466,100 | — |
+| `dollars_value` | 357,966.10 | 19,502.00 | $1.00 |
+| `inr_value` | ₹27,242,250 | ₹1,466,100 | ₹82 |
 
 ### Measures of Dispersion
 
@@ -205,7 +205,7 @@ Analyzed export activity across Indian states to identify the **major exporting 
   
 ![Top 10 Commodities by Export Value](images/top_10_commodities.png)
 
-![Top 10 States by Total Export Value (USD)](images/Top%2010%20States%20by%20Total%20Export%20-Dollar_Value%28USD%29.png)
+![Top 10 States by Total Export Value (USD)](images/Top_10_States_by_Total_Export-Dollar_Value%28USD%29.png)
 
 **Purpose:** To compare export participation and performance across states.
 
@@ -231,7 +231,7 @@ Analyzed the relationship between **principal commodities and exporting states**
 **Visualization Used:**
 - Commodity–state heatmap
   
-![State-wise Export Value Across Top 20 Commodities](images/state_wise_export_top_20_commodities.png)
+![State-Wise Export Value Across Top 20 Commodities](images/State-Wise_Export_Value_Across_Top_20_Commodities.png)
 
 **Purpose:** To identify major commodity-state combinations and regional export specialization.
 
@@ -244,7 +244,7 @@ Analyzed how the performance of major commodities changed across different years
 **Visualization Used:**
 - Commodity-wise yearly trend
   
-![Commodity-wise Export Performance Across Years](images/commodity_wise_export_performance_years.png)
+![Commodity-Wise Export Performance Across Years](images/Commodity-Wise_Export_Performance_Across_Years.png)
 
 **Purpose:** To identify commodities showing growth, decline, or changing export patterns over time.
 
