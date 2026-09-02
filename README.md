@@ -175,7 +175,7 @@ Analyzed India’s overall export performance using **export value and quantity*
 
 **Visualizations Used:**
 - Year-wise export performance
-- Export value and quantity distribution
+  ![Year-Wise Distribution of Export Records](images/Year-Wise%20Distribution.png)
 
 **Purpose:** To understand the overall scale and variation of India's exports.
 
@@ -187,7 +187,8 @@ Identified the **top principal commodities** based on their contribution to tota
 
 **Visualization Used:**
 - Top commodities by export value
-
+![Principal Commodities - Wise Distribution](images/Principal%20Commodities%20-%20Wise%20Distribution.png)
+![Top 10 Principal Commodities by Export INR Value](images/Top%2010%20Principle%20commodities%20by%20Export%20INR_Value.png)
 **Purpose:** To identify the major commodities contributing to India's exports.
 
 ---
