@@ -199,6 +199,8 @@ Analyzed export activity across Indian states to identify the **major exporting 
 
 **Visualization Used:**
 - State-wise export performance
+![Top 10 Commodities by Export Value](images/top_10_commodities.png)
+![Top 10 States by Total Export Value (USD)](images/Top%2010%20States%20by%20Total%20Export%20-Dollar_Value%28USD%29.png)
 
 **Purpose:** To compare export participation and performance across states.
 
@@ -210,6 +212,7 @@ Examined changes in export performance across the **2018–2024** period.
 
 **Visualization Used:**
 - Year-wise export trend
+![Year-Wise Export Value of India](images/Year-Wise%20Export%20Value%20of%20India.png)
 
 **Purpose:** To identify periods of growth, decline, and changes in India's export performance.
 
@@ -221,6 +224,7 @@ Analyzed the relationship between **principal commodities and exporting states**
 
 **Visualization Used:**
 - Commodity–state heatmap
+![State-wise Export Value Across Top 20 Commodities](images/state_wise_export_top_20_commodities.png)
 
 **Purpose:** To identify major commodity-state combinations and regional export specialization.
 
@@ -232,6 +236,7 @@ Analyzed how the performance of major commodities changed across different years
 
 **Visualization Used:**
 - Commodity-wise yearly trend
+![Commodity-wise Export Performance Across Years](images/commodity_wise_export_performance_years.png)
 
 **Purpose:** To identify commodities showing growth, decline, or changing export patterns over time.
 
@@ -243,6 +248,50 @@ Measured the contribution of major **commodities and states** to overall exports
 
 **Visualizations Used:**
 - Commodity contribution analysis
+![Top 10 Commodities by Contribution to Total Export Value](images/Top%2010%20Commodities%20by%20Contribution%20to%20Total%20Export%20Value.png)
 - State contribution analysis
+![Cumulative Contribution of Top 20 Commodities](images/Cumulative%20Contribution%20of%20Top%2020%20Commodities.png)
 
 **Purpose:** To understand the concentration of India's exports among major commodities and states.
+
+## Key Findings and Business Insights
+
+* **Petroleum Products** was the largest export contributor, accounting for **16.23%** of total export value.
+
+* The **Top 20 commodities contributed 62.12%** of total export value, indicating significant concentration among major commodities.
+
+* **Maharashtra and Gujarat** were the leading states by total export value, followed by **Tamil Nadu**.
+
+* Export value increased significantly from **2020 to 2022**, reaching the highest recorded value of **$453.26 billion in 2022**.
+
+* Major commodities showed considerable year-to-year variation, with **Petroleum Products** consistently remaining a key export contributor.
+
+* The **State–Commodity analysis** revealed different commodity strengths across states, indicating **regional specialization in exports**.
+
+* The findings highlight the importance of monitoring major export contributors while exploring **commodity and market diversification opportunities**.
+
+## Recommendations
+
+* **Promote export diversification**
+  Reduce dependence on a limited number of major commodities by encouraging a broader range of export products.
+
+* **Strengthen high-performing commodities**
+  Support sectors with strong and consistent export performance to sustain their contribution to India's exports.
+
+* **Leverage state-level strengths**
+  Encourage region-specific export development by improving infrastructure and supporting states with strong export potential.
+
+* **Monitor yearly commodity trends**
+  Regularly track commodity performance across years to identify emerging opportunities and declining export categories.
+
+* **Expand into new markets and products**
+  Explore new destination markets and product categories to improve export resilience and support long-term growth.
+
+## Conclusion
+
+The analysis provides a **data-driven overview of India's export performance from 2018 to 2024** across commodities, states, and years. The findings show that export value is significantly influenced by a limited number of major commodities and states, with **Petroleum Products** being the leading commodity contributor and **Maharashtra and Gujarat** among the leading exporting states.
+
+Year-wise analysis also identified substantial changes in export performance, particularly between **2020 and 2022**. Overall, the project demonstrates how **Python-based data analytics** can transform large-scale export data into meaningful patterns, insights, and business recommendations.
+
+
+
