@@ -157,6 +157,6 @@ The numerical variables showed **high variability and strong right-skewness**, i
 
 Log transformation was applied to selected export-value variables to improve the visibility of their distributions and reduce the effect of extreme values.
 
-![Log-Transformed Export Value Distribution](images/log_transformed_export_distribution.png)
+![Log-Transformed Export Value Distribution](images/log1-Dollars_Value.png)
 
 > **Insight:** The original export-value distributions were highly right-skewed. The log transformation provided a more balanced distribution and made the underlying patterns easier to analyze.
