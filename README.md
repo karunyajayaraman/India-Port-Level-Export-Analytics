@@ -298,7 +298,7 @@ Measured the contribution of major **commodities and states** to overall exports
 * **Expand into new markets and products**
   Explore new destination markets and product categories to improve export resilience and support long-term growth.
 
-## Conclusion
+  ## Conclusion
 
 The analysis provides a **data-driven overview of India's export performance from 2018 to 2024** across commodities, states, and years. The findings show that export value is significantly influenced by a limited number of major commodities and states, with **Petroleum Products** being the leading commodity contributor and **Maharashtra and Gujarat** among the leading exporting states.
 
@@ -306,32 +306,52 @@ Year-wise analysis also identified substantial changes in export performance, pa
 
 ## 12. Power BI Dashboard
 
-The cleaned export dataset was further analyzed using **Microsoft Power BI** to create an interactive dashboard for business reporting and decision-making.
+The cleaned and analyzed export dataset was further developed into an interactive **Microsoft Power BI dashboard** to provide a consolidated view of India's export performance from **2018 to 2024**.
 
-The dashboard provides a consolidated view of India's export performance from **2018 to 2024**, with interactive filtering and visual analysis across years, commodities, states, Export Values (INR) & Dollars_Value and destination countries.
+The dashboard brings together key performance indicators, year-wise export trends, top commodities, top exporting states, commodity-state analysis, commodity contribution, and destination-country analysis in a single interactive report.
 
-The Power BI dashboard includes the following key analytical views:
+### Dashboard
 
-- Key Performance Indicators (KPIs)
-- Year-wise Export Trend
-- Top 10 Commodities by Export Value
-- Top 10 States by Export Value
-- Top 20 Commodities by State – Export Value
-- Top 20 Commodities – Contribution to Total Exports
-- Top Destination Countries
+![Power BI Dashboard](images/Dashboard%20image.png)
 
+### 12.1 Dashboard Insights
 
+The Power BI dashboard provides the following consolidated insights:
 
-### 12.2 Key Performance Indicators (KPIs)
+1. **KPI Insights:** The KPI cards provide a high-level summary of India's export performance and help users quickly understand the overall scale of exports.
 
-The dashboard includes KPI cards to provide a quick summary of overall export performance.
+2. **Year-wise Export Performance:** Export value varied considerably across the study period, with export performance reaching its highest level in **2022 at approximately $453.26 billion**.
 
-The key metrics include:
+3. **Top Commodities:** Export performance is strongly influenced by major commodities. **Petroleum Products** are the leading commodity contributor, followed by other high-value commodities such as Pearls, Drug Formulations, Iron & Steel, Gold, and Electric Machinery.
 
-- **Total Export Value** – Total export value during the selected period.
-- **Total Export Quantity** – Total quantity exported.
-- **Total Commodities** – Number of principal commodities included in the analysis.
-- **Total States** – Number of exporting states represented in the dataset.
-- **Total Destination Countries** – Number of destination countries covered by the export data.
+4. **Top Exporting States:** **Maharashtra and Gujarat** are among the leading exporting states, demonstrating their significant contribution to India's overall export activity.
+
+5. **Commodity–State Analysis:** The commodity-state analysis highlights differences in export strengths across states and indicates **regional specialization** in particular commodities.
+
+6. **Commodity Contribution:** The contribution analysis shows that a relatively small number of major commodities account for a substantial share of India's total exports, indicating a degree of **export concentration**.
+
+7. **Destination Countries:** The destination-country analysis identifies the major international markets receiving Indian exports and provides an overview of India's export-market distribution.
+
+8. **Interactive Analysis:** The year slicer and interactive visuals allow users to filter and compare export performance across different years, commodities, states, and destination markets.
+
+### 12.2 Overall Business Insights
+
+* India's export performance is significantly influenced by a limited number of major commodities and states.
+* **Petroleum Products** are a major contributor to India's total export value.
+* **Maharashtra and Gujarat** demonstrate strong export performance and play an important role in India's export ecosystem.
+* Export value showed considerable variation during **2018–2024**, with **2022 recording the highest export value** in the analyzed period.
+* Commodity-state analysis indicates that different states have different areas of export specialization.
+* The concentration of export value among major commodities highlights the importance of **product diversification**.
+* Analysis of destination countries provides opportunities for **market diversification and expansion**.
+* The dashboard enables decision-makers to identify major contributors, monitor trends, and compare export performance interactively.
+
+### 12.3 Dashboard Outcome
+
+The Power BI dashboard converts the analytical findings from Python into an **interactive business intelligence report**. It provides a consolidated view of India's export performance and makes it easier to monitor trends, identify major commodities and exporting states, analyze regional specialization, understand export concentration, and evaluate destination markets.
+
+Overall, the dashboard supports **data-driven decision-making** by transforming large-scale export data into clear and actionable business insights.
 
 These KPIs provide an immediate overview of the scale and scope of India's exports.
+
+
+
