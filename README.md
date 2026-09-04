@@ -353,5 +353,8 @@ Overall, the dashboard supports **data-driven decision-making** by transforming 
 
 These KPIs provide an immediate overview of the scale and scope of India's exports.
 
+# India Port-Level Export Analytics (2018–2024)
 
-
+**Author:** Karunya Jayaraman  
+**Project:** Data Analytics & Business Intelligence Capstone Project  
+**Technologies:** Python | Pandas | NumPy | Matplotlib | Seaborn | Plotly | Excel | Power BI | GitHub
