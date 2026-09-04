@@ -304,5 +304,34 @@ The analysis provides a **data-driven overview of India's export performance fro
 
 Year-wise analysis also identified substantial changes in export performance, particularly between **2020 and 2022**. Overall, the project demonstrates how **Python-based data analytics** can transform large-scale export data into meaningful patterns, insights, and business recommendations.
 
+## 12. Power BI Dashboard
+
+The cleaned export dataset was further analyzed using **Microsoft Power BI** to create an interactive dashboard for business reporting and decision-making.
+
+The dashboard provides a consolidated view of India's export performance from **2018 to 2024**, with interactive filtering and visual analysis across years, commodities, states, Export Values (INR) & Dollars_Value and destination countries.
+
+The Power BI dashboard includes the following key analytical views:
+
+- Key Performance Indicators (KPIs)
+- Year-wise Export Trend
+- Top 10 Commodities by Export Value
+- Top 10 States by Export Value
+- Top 20 Commodities by State – Export Value
+- Top 20 Commodities – Contribution to Total Exports
+- Top Destination Countries
 
 
+
+### 12.2 Key Performance Indicators (KPIs)
+
+The dashboard includes KPI cards to provide a quick summary of overall export performance.
+
+The key metrics include:
+
+- **Total Export Value** – Total export value during the selected period.
+- **Total Export Quantity** – Total quantity exported.
+- **Total Commodities** – Number of principal commodities included in the analysis.
+- **Total States** – Number of exporting states represented in the dataset.
+- **Total Destination Countries** – Number of destination countries covered by the export data.
+
+These KPIs provide an immediate overview of the scale and scope of India's exports.
