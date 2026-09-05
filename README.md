@@ -304,7 +304,7 @@ The analysis provides a **data-driven overview of India's export performance fro
 
 Year-wise analysis also identified substantial changes in export performance, particularly between **2020 and 2022**. Overall, the project demonstrates how **Python-based data analytics** can transform large-scale export data into meaningful patterns, insights, and business recommendations.
 
-## Power BI Dashboard
+## Power BI Dashboard – India Port-Level Export Analytics (2018-2024)
 
 The cleaned and analyzed export dataset was further developed into an interactive **Microsoft Power BI dashboard** to provide a consolidated view of India's export performance from **2018 to 2024**.
 
