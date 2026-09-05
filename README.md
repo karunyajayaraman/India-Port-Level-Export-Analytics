@@ -325,6 +325,8 @@ GitHub – Project documentation and version control
 
 The cleaned export dataset was imported into Power BI and structured for dashboard analysis. The data model supports analysis across key dimensions such as year, commodity, state, port, and destination country.
 
+![Power BI Data Modelling](images/DataModelling.png)
+
 ### 12.3 Dashboard Insights
 
 The Power BI dashboard provides the following consolidated insights:
