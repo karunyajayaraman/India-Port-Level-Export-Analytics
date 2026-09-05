@@ -315,10 +315,15 @@ The dashboard brings together key performance indicators, year-wise export trend
 ![Power BI Dashboard](images/Dashboard%20image.png)
 
 ### 12.1 Tools & Technologies
+
 Microsoft Power BI – Interactive dashboard development and business intelligence reporting
+
 Power Query – Data preparation and transformation
+
 DAX (Data Analysis Expressions) – Creation of calculated measures and KPIs
+
 Data Modelling – Structuring data for dashboard analysis and interactive filtering
+
 GitHub – Project documentation and version control
 
 ### 12.2 Data Modelling
