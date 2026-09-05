@@ -304,7 +304,7 @@ The analysis provides a **data-driven overview of India's export performance fro
 
 Year-wise analysis also identified substantial changes in export performance, particularly between **2020 and 2022**. Overall, the project demonstrates how **Python-based data analytics** can transform large-scale export data into meaningful patterns, insights, and business recommendations.
 
-## 12. Power BI Dashboard
+## Power BI Dashboard
 
 The cleaned and analyzed export dataset was further developed into an interactive **Microsoft Power BI dashboard** to provide a consolidated view of India's export performance from **2018 to 2024**.
 
@@ -314,7 +314,7 @@ The dashboard brings together key performance indicators, year-wise export trend
 
 ![Power BI Dashboard](images/Dashboard%20image.png)
 
-### 12.1 Tools & Technologies
+### Tools & Technologies
 
 * Microsoft Power BI – Interactive dashboard development and business intelligence reporting
 
@@ -326,13 +326,13 @@ The dashboard brings together key performance indicators, year-wise export trend
 
 * GitHub – Project documentation and version control
 
-### 12.2 Data Modelling
+### Data Modelling
 
 The cleaned export dataset was imported into Power BI and structured for dashboard analysis. The data model supports analysis across key dimensions such as year, commodity, state, port, and destination country.
 
 ![Power BI Data Modelling](images/DataModelling.png)
 
-### 12.3 Dashboard Insights
+### Dashboard Insights
 
 The Power BI dashboard provides the following consolidated insights:
 
@@ -352,7 +352,7 @@ The Power BI dashboard provides the following consolidated insights:
 
 8. **Interactive Analysis:** The year slicer and interactive visuals allow users to filter and compare export performance across different years, commodities, states, and destination markets.
 
-### 12.4 Overall Business Insights
+### Overall Business Insights
 
 * India's export performance is significantly influenced by a limited number of major commodities and states.
 * **Petroleum Products** are a major contributor to India's total export value.
@@ -363,7 +363,7 @@ The Power BI dashboard provides the following consolidated insights:
 * Analysis of destination countries provides opportunities for **market diversification and expansion**.
 * The dashboard enables decision-makers to identify major contributors, monitor trends, and compare export performance interactively.
 
-### 12.5 Dashboard Outcome
+### Dashboard Outcome
 
 The Power BI dashboard converts the analytical findings from Python into an **interactive business intelligence report**. It provides a consolidated view of India's export performance and makes it easier to monitor trends, identify major commodities and exporting states, analyze regional specialization, understand export concentration, and evaluate destination markets.
 
@@ -371,7 +371,7 @@ Overall, the dashboard supports **data-driven decision-making** by transforming 
 
 These KPIs provide an immediate overview of the scale and scope of India's exports.
 
-## 13. Overall Project Conclusion
+## Overall Project Conclusion
 
 This project analyzed India’s export performance at the principal commodity level for 2018–2024 using Python and Microsoft Power BI.
 
